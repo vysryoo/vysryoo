@@ -2,7 +2,7 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={vysryoo})](https://solved.ac/{vysryoo})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vysryoo)](https://solved.ac/vysryoo)
 
 <!--
 **vysryoo/vysryoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
